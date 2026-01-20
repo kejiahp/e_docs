@@ -32,6 +32,10 @@ Before testing Nginx, the firewall software needs to be adjusted to allow access
 
 In case you're working with a AWS instance allow the role OpenSSH to ensure you can ssh into the machine, else you're locked out 💀
 
+**Allow SSH by running the following command**
+
+- run `sudo ufw allow 'OpenSSH'`
+
 **We can check with the systemd init system to make sure the service is running**
 
 - run `systemctl status nginx`
