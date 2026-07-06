@@ -1,3 +1,3 @@
-# Personal Documents
+# E_DOCS
 
-personal documents made for me by me, you could also use them too though.
+Documentation on previously implemented features, for quick lookups and guide. 
